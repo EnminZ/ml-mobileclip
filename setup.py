@@ -38,7 +38,7 @@ setup(
     name="mobileclip",
     version="0.1.0",
     description="MobileCLIP",
-    url="https://github.com/apple/ml-mobileclip",
+    url="https://github.com/EnminZ/ml-mobileclip.git",
     author="",
     author_email="",
     classifiers=[
