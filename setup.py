@@ -36,7 +36,7 @@ REQUIREMENTS = _read_reqs("requirements.txt")
 
 setup(
     name="mobileclip",
-    version="0.1.0",
+    version="0.1.1",
     description="MobileCLIP",
     url="https://github.com/EnminZ/ml-mobileclip.git",
     author="",
